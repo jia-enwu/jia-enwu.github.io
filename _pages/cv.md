@@ -47,8 +47,6 @@ You can download my full CV here:
 {% endfor %}
 </ul>
 
-*(If you want, I can help you write a narrative-style teaching philosophy section here.)*
-
 ---  
 
 # Service
