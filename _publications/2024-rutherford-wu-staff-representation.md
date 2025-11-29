@@ -9,6 +9,7 @@ date: 2025-01-01
 venue: "Politics, Groups, and Identities (forthcoming)"
 category: manuscripts
 paperurl: "https://www.tandfonline.com/doi/full/10.1080/21565503.2025.2564133?src="
+excerpt: This paper analyzed over 180,000 staff contracts from the U.S. House of Representatives to revisit assumptions about how member demographics and party affiliation influence the representation of women and people of color among senior, DC, and district staff.
 ---
 
 ## Overview
