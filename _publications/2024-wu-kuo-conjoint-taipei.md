@@ -7,7 +7,7 @@ authors:
 date: 2024-01-01
 venue: "Journal of Asian Public Policy, 17(3): 725–746"
 category: manuscripts
-paperurl: "/files/wu-kuo-2024.pdf"
+paperurl: "https://www.tandfonline.com/doi/abs/10.1080/17516234.2022.2072167"
 excerpt: "Published in *Journal of Asian Public Policy*. A conjoint experiment evaluating how policy design shapes intergroup conflict over ageing policy."
 ---
 
