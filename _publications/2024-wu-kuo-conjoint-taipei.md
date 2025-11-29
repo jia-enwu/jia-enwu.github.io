@@ -8,7 +8,7 @@ date: 2024-01-01
 venue: "Journal of Asian Public Policy, 17(3): 725–746"
 category: manuscripts
 paperurl: "https://www.tandfonline.com/doi/abs/10.1080/17516234.2022.2072167"
-excerpt: A conjoint experiment evaluating how policy design shapes intergroup conflict over ageing policy."
+excerpt: A conjoint experiment evaluating how policy design shapes intergroup conflict over ageing policy.
 ---
 
 ## Overview

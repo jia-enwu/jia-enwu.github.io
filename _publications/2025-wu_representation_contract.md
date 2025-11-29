@@ -7,6 +7,7 @@ date: 2025-01-01
 venue: "Working paper"
 category: working_papers
 paperurl:
+excerpt: This paper shows that bureaucratic discretion activates active representation only in agencies with higher shares of female managers, revealing that representational behavior emerges when identity-based willingness meets institutional opportunity.
 ---
 
 ## Overview
