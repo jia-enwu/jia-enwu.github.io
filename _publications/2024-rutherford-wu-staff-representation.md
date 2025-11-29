@@ -11,4 +11,4 @@ category: manuscripts
 paperurl: "https://www.tandfonline.com/doi/full/10.1080/21565503.2025.2564133?src="
 ---
 
-Forthcoming article in *Politics, Groups, and Identities* examining how legislator's demographic shapes the hiring of their staff.
+We analyze over 180,000 staff contracts from the U.S. House of Representatives to revisit assumptions about how member demographics and party affiliation influence the representation of women and people of color among senior, DC, and district staff.
