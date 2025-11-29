@@ -7,12 +7,12 @@ date: 2025-01-01
 venue: "Working paper"
 category: working_papers
 paperurl:
-excerpt: Working paper using an event-study and IV design to evaluate how California’s board gender quota reshaped women’s representation across organizational levels.
+excerpt: This paper using an event-study and IV design to evaluate how California’s board gender quota reshaped women’s representation across organizational levels.
 ---
 
 ## Overview
 
-This working paper examines whether California’s board gender quota (SB 826) improved women’s career advancement beyond the boardroom. Using a natural experiment from the SB 826, the study evaluates how increased female board representation affected:  
+This paper examines whether California’s board gender quota (SB 826) improved women’s career advancement beyond the boardroom. Using a natural experiment from the SB 826, the study evaluates how increased female board representation affected:  
 1) **female executives**, and  
 2) **female employees** in the broader workforce.
 
