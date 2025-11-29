@@ -11,7 +11,7 @@ redirect_from:
 
 ## Download CV
 You can download my full CV here:  
-👉 **[Download CV (PDF)](/files/Wu_CV.pdf)**
+ **[Download CV (PDF)](/files/Wu_CV.pdf)**
 
 ---
 
