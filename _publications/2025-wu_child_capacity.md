@@ -12,7 +12,7 @@ excerpt: "A stacked difference-in-differences study of predictive algorithms in 
 
 ## Overview
 
-This paper evaluates how predictive screening algorithms reshape frontline decision-making in U.S. Child Protective Services (CPS). Using NCANDS data (2010–2023) and a stacked difference-in-differences design, I show that algorithm adoption **does not increase the number of investigations** and produces a **substantial decline in substantiation rates**, indicating erosion—not expansion—of bureaucratic capacity.
+This paper evaluates how predictive screening algorithms reshape frontline decision-making in U.S. Child Protective Services (CPS). Using NCANDS data (2010–2023) and a stacked difference-in-differences design, I show that algorithm adoption **does not increase the number of investigations** and produces a **substantial decline in substantiation rates**, indicating erosion of bureaucratic capacity.
 
 I develop the concept of **routinized deference**, arguing that street-level bureaucrats under time pressure default to algorithmic recommendations, shifting their work from case analysis to verification and exception management.
 
@@ -21,10 +21,9 @@ I develop the concept of **routinized deference**, arguing that street-level bur
 ## Research Design
 
 - **Data:** NCANDS Child File, 2010–2023  
-- **Outcomes:**  
+- **Outcome Variables:**  
   - Investigation volume (operational capacity)  
   - Substantiation rate (analytical capacity)  
-- **Design:** Stacked Difference-in-Differences
 - **Treatment:** County-level adoption of predictive screening tools 
 
 ---
@@ -36,7 +35,6 @@ I develop the concept of **routinized deference**, arguing that street-level bur
 
 ### **2. No increase in the number of investigations**
 - Rejects the hypothesis that operational capacity improved.  
-- No expansion in throughput.
 
 ### **3. Investigations take longer**
 - Average investigation duration increases by **7.36 days** (≈14%).  
@@ -56,7 +54,7 @@ Street-level staff default to algorithmic recommendations under caseload pressur
 
 ---
 
-## Figures
+## Results
 
 ### **Figure 1. Decline in substantiation rates after adoption**
 ![Substantiation decline](/images/child_AI_fig1.png)
