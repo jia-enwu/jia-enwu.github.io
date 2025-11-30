@@ -9,6 +9,8 @@ redirect_from:
 
 ## About Me
 
+**Name pronunciation:** *Jiaen (pronounced “Jee-en,” like “G — N”)*
+
 I am a Ph.D. candidate in Public Affairs at the O’Neill School of Public and Environmental Affairs, Indiana University Bloomington.  
 My research lies at the intersection of **bureaucratic discretion, representative bureaucracy, and algorithmic governance**. Overall, I study how administrative tools, such as diversity regulations or predictive algorithms, redistribute bureaucratic discretion within public agencies and shape frontline behavior.
 
