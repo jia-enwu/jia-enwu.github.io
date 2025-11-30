@@ -44,5 +44,5 @@ This method provides a transparent, replicable, and scalable approach to staff c
 - In competitive districts, nonwhite legislators hire fewer nonwhite staff—suggesting electoral incentives can suppress active representation.
 
 ### **4. Party identity is a powerful force**
-- Democrats—regardless of race or gender—hire more diverse staff.
+- Democrats, regardless of race or gender, hire more diverse staff.
 - Among Republicans, demographic identity plays a much larger role.
