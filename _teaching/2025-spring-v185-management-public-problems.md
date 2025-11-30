@@ -14,16 +14,16 @@ I served as the **instructor of record** for this undergraduate core course in p
 **Role:** Instructor of Record  
 **Semester:** Spring 2025  
 
-### Course description
-The course introduces students to how public and nonprofit organizations diagnose and respond to complex social problems. Topics include:
-
-- Problem definition and agenda setting  
-- Organizational structures and public management tools  
-- Collaboration across public, nonprofit, and private actors  
-- Tradeoffs between efficiency, equity, and accountability  
+### Course focus
+The course introduces key public management concepts, including:
+- Differences between public, nonprofit, and private organizations  
+- Collaboration and cross-sector governance  
+- Ethics, discretion, equity, and administrative burden  
+- Decision-making and organizational behavior  
+- Real-world policy cases (e.g., teacher shortages, policing, AI regulation)
 
 ### Teaching responsibilities
-- Designed syllabus, weekly lectures, and in-class activities  
-- Led all class meetings and discussions  
-- Developed and graded assignments and exams  
-- Provided feedback and mentoring on students’ policy memos and group projects  
+- Designed the full syllabus, lectures, and in-class activities  
+- Led all class meetings and facilitated discussions  
+- Created and graded exams, assignments, and the management analysis project  
+- Provided guidance on policy writing and group work
