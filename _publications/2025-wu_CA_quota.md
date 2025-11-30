@@ -41,7 +41,7 @@ Evidence shows a surge in *first-time female board members* after 2018 and stron
 In contrast, the share of female employees increase significantly following the policy. IV estimates indicate that greater female board representation produced a **positive and statistically significant “trickle-down effect”** on workforce gender composition.
 
 
-## Figure
+## Results
 
 ### Figure 1. Effect on Female Executives
 
