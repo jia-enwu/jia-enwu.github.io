@@ -6,7 +6,7 @@ authors:
 date: 2025-01-01
 venue: "Working paper"
 category: working_papers
-paperurl:
+paperurl: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5831342"
 excerpt: This paper using an event-study and IV design to evaluate how California’s board gender quota reshaped women’s representation across organizational levels.
 ---
 
