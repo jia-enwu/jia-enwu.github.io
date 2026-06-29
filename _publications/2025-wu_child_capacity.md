@@ -3,7 +3,7 @@ title: "Routinized Deference: Predictive Screening and Bureaucratic Capacity in 
 collection: publications
 authors:
   - "Jiaen Wu"
-date: 2025-01-01
+date: 2025-12-01
 venue: "Revise & Resubmit, Journal of Public Administration Research and Theory (JPART)"
 category: working_papers
 paperurl: 
