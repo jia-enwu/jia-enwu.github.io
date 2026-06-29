@@ -31,6 +31,39 @@ You can download my full CV here:
 
 ---
 
+# Research Grants
+
+- **[AI at Work Grant](https://www.schmidtsciences.org/ai-at-work/) (Principal Investigator)**, Schmidt Sciences  
+  *2026*  
+  Phase I Seed Funding: $10,000; eligible for $200,000 Phase II scaling grant.
+
+---
+
+# Fellowships and Honors
+
+- **Irsay Graduate Fellows Program**, Indiana University Bloomington  
+  *2026–2027*
+
+- **Staats Emerging Scholars Award**, Network of Schools of Public Policy, Affairs, and Administration (NASPAA)  
+  *2026*
+
+- **Travel Grant Award**, American Political Science Association Public Policy Section  
+  *2026*
+
+- **Dissertation Workshop Series - Public Administration and Policy**, American Political Science Association  
+  *2026*
+
+- **[Summer Academy](https://www.american.edu/spa/dpap/summer-academy/fellows-2026.cfm)**, Department of Public Administration & Policy, American University  
+  *2026*
+
+- **Alan Brass Ph.D. Fellowship in Public Affairs**, Indiana University Bloomington O’Neill School of Public and Environmental Affairs  
+  *2025–2026*
+
+- **ICPSR Tuition Fellowship**, Indiana University Bloomington O’Neill School of Public and Environmental Affairs  
+  *2024*
+
+---
+
 # Publications
 <ul>
 {% for post in site.publications %}
