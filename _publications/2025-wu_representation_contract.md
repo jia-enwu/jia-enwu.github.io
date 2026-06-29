@@ -7,14 +7,12 @@ date: 2025-01-01
 venue: "Working paper"
 category: working_papers
 paperurl:
-excerpt: This paper shows that bureaucratic discretion activates active representation only in agencies with higher shares of female managers, revealing that representational behavior emerges when identity-based willingness meets institutional opportunity.
+excerpt: This paper shows that bureaucratic discretion activates active representation only in offices with a higher share of female managers, where identity-based willingness meets institutional opportunity.
 ---
 
 ## Overview
 
-This paper provides a **causal test** of a foundational assumption in representative bureaucracy: **Does bureaucratic discretion activate the translation of passive into active representation?**
-
-I leverage the **2022 expansion of WOSB-eligible NAICS codes** as an exogenous increase in contracting officers’ discretion. Using federal procurement and workforce data from 2015–2024, I show that discretion alone does *not* increase the use of WOSB set-aside tools **unless the contracting office has a higher pre-existing share of female managers.**
+A foundational claim in the study of representative bureaucracy holds that discretion is what turns passive representation into active representation. The claim is widely invoked, yet rarely tested causally. This paper offers such a test. I use the 2022 expansion of WOSB-eligible NAICS codes as an exogenous increase in contracting officers' discretion and, drawing on federal procurement and workforce data from 2015 to 2024, ask whether more discretion alone changes behavior. It does not. Discretion increases the use of WOSB set-aside tools only where a contracting office already has a higher share of female managers. Active representation, in other words, emerges where identity-based willingness meets institutional opportunity—and neither component does much on its own.
 
 This pattern reveals an activation mechanism:  
 ### **Active Representation = Willingness (passive representation) × Opportunity (discretion)**  

@@ -7,14 +7,12 @@ date: 2025-01-01
 venue: "Working paper"
 category: working_papers
 paperurl: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5831342"
-excerpt: This paper using an event-study and IV design to evaluate how California’s board gender quota reshaped women’s representation across organizational levels.
+excerpt: An event-study and IV design evaluating how California's board gender quota (SB 826) reshaped women's representation across organizational levels, from executives to the broader workforce.
 ---
 
 ## Overview
 
-This paper examines whether California’s board gender quota (SB 826) improved women’s career advancement beyond the boardroom. Using the SB 826 as a natural experiment, the study evaluates how increased female board representation affected: **female executives**, and **female employees** in the broader workforce.
-
-The analysis reveals a **divergent pattern**: the policy generated a short-term decline in female executives, but a meaningful increase in women in the broader workforce. These results highlight distinct mechanisms operating at different organizational levels.
+Gender quotas for corporate boards are often justified by the hope that women at the top will open doors for women below them. Whether such mandates reach beyond the boardroom, however, is ultimately an empirical question. This paper treats California's board gender quota (SB 826) as a natural experiment and asks whether the law improved women's advancement at two levels: among executives, and among employees in the broader workforce. The pattern that emerges is divergent. The policy produced a short-term decline in female executives but a meaningful increase in women across the wider workforce—a contrast that points to distinct mechanisms operating at different rungs of the organization. The executive decline appears to reflect strategic reallocation, as firms promoted senior women into board seats to comply, while the workforce gains suggest a positive trickle-down effect from greater board representation.
 
 ## Research Design
 

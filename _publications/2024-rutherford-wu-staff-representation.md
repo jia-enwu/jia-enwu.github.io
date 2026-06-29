@@ -9,12 +9,12 @@ date: 2025-01-01
 venue: "Politics, Groups, and Identities (forthcoming)"
 category: manuscripts
 paperurl: "https://www.tandfonline.com/doi/full/10.1080/21565503.2025.2564133?src="
-excerpt: This paper analyzes over 180,000 staff contracts from the U.S. House of Representatives to revisit assumptions about how member demographics and party affiliation influence the representation of women and people of color among senior, DC, and district staff.
+excerpt: We analyze over 180,000 staff contracts from the U.S. House of Representatives to revisit how members' demographics and party shape the representation of women and people of color among senior, DC, and district staff.
 ---
 
 ## Overview
 
-This article analyzes **over 180,000 staff contracts** from the U.S. House of Representatives (2005–2019) to reassess long-standing assumptions about how legislators’ **race, gender, and partisanship** influence the demographic composition of their staff. Using an **AI-assisted classification approach**, we systematically identify whether each staff member works in the **DC or district office**, and whether they serve in **senior or non-senior** positions. This expanded measurement strategy allows us to evaluate staff representation across multiple tiers of the legislative enterprise and uncover how legislators’ hiring patterns vary by organizational level.
+Congressional staff are the workhorses of the legislative enterprise, yet research on representation among them has tended to treat staff as a single, undifferentiated group. Less attention has been given to whether and how legislators' race, gender, and partisanship shape representation across the full organization, from senior aides in Washington to caseworkers in the district. We examine over 180,000 staff contracts from the U.S. House of Representatives between 2005 and 2019, using an AI-assisted classification approach to identify whether each staff member works in the DC or district office and whether they serve in a senior or non-senior position. This lets us trace representation across multiple tiers of the legislative enterprise rather than collapsing them into a single count. We find that female legislators hire more women overall but not more women in senior roles, where decision-making power concentrates, while nonwhite legislators hire substantially more staff of color across every tier. Party, however, exerts the strongest pull—Democrats hire more diverse staff regardless of a member's own race or gender.
 
 ## AI-Assisted Job Classification
 

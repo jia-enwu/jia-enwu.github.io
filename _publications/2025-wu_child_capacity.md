@@ -7,14 +7,12 @@ date: 2025-01-01
 venue: "Working paper"
 category: working_papers
 paperurl: 
-excerpt: "A stacked difference-in-differences study of predictive algorithms in child protection, showing that algorithm adoption reduces analytical capacity without improving operational capacity."
+excerpt: "A stacked difference-in-differences study of predictive algorithms in U.S. child protection, showing that adoption erodes analytical capacity—lower substantiation rates and slower investigations—without expanding operational capacity."
 ---
 
 ## Overview
 
-This paper evaluates how predictive screening algorithms reshape frontline decision-making in U.S. Child Protective Services (CPS). Using NCANDS data (2010–2023) and a stacked difference-in-differences design, I show that algorithm adoption **does not increase the number of investigations** and produces a **substantial decline in substantiation rates**, indicating erosion of bureaucratic capacity.
-
-I develop the concept of **routinized deference**, arguing that street-level bureaucrats under time pressure default to algorithmic recommendations, shifting their work from case analysis to verification and exception management.
+Public agencies increasingly hand frontline screening decisions to predictive algorithms, on the premise that doing so sharpens judgment and frees scarce capacity. Less is known about what these tools do to the analytical work of street-level bureaucrats once they are in place. Using NCANDS data from 2010 to 2023 and a stacked difference-in-differences design, I examine how the adoption of predictive screening reshaped decision-making in U.S. Child Protective Services. Algorithm adoption does not increase the number of investigations, and it produces a substantial decline in substantiation rates—evidence, I argue, of eroding rather than expanding capacity. To make sense of this, I develop the concept of routinized deference: under caseload pressure, caseworkers default to the algorithm's recommendation, and their work shifts from analyzing cases toward verifying the tool and managing its exceptions.
 
 ---
 
