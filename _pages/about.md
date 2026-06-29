@@ -14,7 +14,7 @@ redirect_from:
 I am a Ph.D. candidate in Public Affairs at the O’Neill School of Public and Environmental Affairs, Indiana University Bloomington.  
 My research sits at the intersection of bureaucratic discretion, representative bureaucracy, and algorithmic governance. I study the ways in which administrative tools—diversity regulations, predictive algorithms, and the policy shocks that accompany them—redistribute discretion inside public agencies and shape how frontline workers behave. Increasingly, that work centers on artificial intelligence: as agencies adopt predictive and generative tools, I ask whether these systems can improve public service without eroding human judgment, organizational capacity, or social equity.
 
-Much of this work asks how bureaucratic choices respond to shifting decision environments. Whether the source of change is a demographic hiring mandate, the introduction of an algorithmic risk score, or an unexpected policy shock, I pursue three linked questions:
+Many of these studies ask how bureaucratic choices respond to shifting decision environments. Whether the source of change is a demographic hiring mandate, the introduction of an algorithmic risk score, or an unexpected policy shock, I pursue three linked questions:
 
 1. How do these interventions alter the balance of discretion between political principals and bureaucrats?  
 2. Through what behavioral channels—identity, information, or incentives—do they shape managerial and frontline decisions?  
