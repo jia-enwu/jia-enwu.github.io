@@ -4,7 +4,7 @@ collection: publications
 authors:
   - "Jiaen Wu"
 date: 2025-01-01
-venue: "Working paper"
+venue: "Revise & Resubmit, Journal of Public Administration Research and Theory (JPART)"
 category: working_papers
 paperurl: 
 excerpt: "A stacked difference-in-differences study of predictive algorithms in U.S. child protection, showing that adoption erodes analytical capacity—lower substantiation rates and slower investigations—without expanding operational capacity."
