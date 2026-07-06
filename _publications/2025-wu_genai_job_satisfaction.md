@@ -13,7 +13,7 @@ excerpt: "A continuous difference-in-differences study of 25 U.S. federal agenci
 
 ## Overview
 
-Generative AI is spreading quickly through the U.S. federal government, and much of the enthusiasm rests on a single promise: that these tools will lift routine administrative burdens and free public servants to spend more time on mission-critical work. Less attention has been given to what sustained interaction with GenAI does to the people using it. We argue that the effect on job satisfaction depends on how the technology is integrated—through automation, which substitutes for routine tasks, or through augmentation, which inserts model outputs into more complex human decisions. We examine a panel of 25 U.S. civilian federal agencies from 2017 to 2024, combining task-level GenAI scores from Claude usage data (Handa et al., 2025) with agency job satisfaction from the Federal Employee Viewpoint Survey, and we treat the public release of GenAI in late 2022 as an exogenous shock within a continuous difference-in-differences design. We find that automation exposure has no significant effect on job satisfaction, while augmentation exposure is negatively associated with it. The pattern is consistent with the idea that augmentation shifts public sector work from creation to verification—employees must monitor, interpret, and remain accountable for probabilistic outputs—and that this verification burden carries real psychosocial costs.
+Generative AI is spreading quickly through the U.S. federal government, and much of the enthusiasm rests on a single promise: that these tools will lift routine administrative burdens and free public servants to spend more time on mission-critical work. We know much less about what sustained interaction with GenAI does to the people using it. We argue that the effect on job satisfaction depends on how the technology is integrated—through automation, which substitutes for routine tasks, or through augmentation, which inserts model outputs into more complex human decisions. We examine a panel of 25 U.S. civilian federal agencies from 2017 to 2024, combining task-level GenAI scores from Claude usage data (Handa et al., 2025) with agency job satisfaction from the Federal Employee Viewpoint Survey, and we treat the public release of GenAI in late 2022 as an exogenous shock within a continuous difference-in-differences design. We find that automation exposure has no significant effect on job satisfaction, while augmentation exposure is negatively associated with it. The pattern is consistent with the idea that augmentation shifts public sector work from creation to verification—employees must monitor, interpret, and remain accountable for probabilistic outputs—and that this verification burden carries real psychosocial costs.
 
 ## Research Design
 
@@ -28,15 +28,15 @@ Generative AI is spreading quickly through the U.S. federal government, and much
 
 ## Key Findings
 
-### 1. **Automation exposure has no effect on job satisfaction**
+### 1. Automation exposure has no effect on job satisfaction
 - Post-treatment event-study estimates are statistically insignificant.
 - A significant pre-trend suggests routine-heavy agencies were already shifting under earlier waves of workplace technology, so GenAI automation adds little distinct marginal impact in the short term.
 
-### 2. **Augmentation exposure lowers job satisfaction**
+### 2. Augmentation exposure lowers job satisfaction
 - Satisfaction declines significantly in the first year after adoption (point estimate = −0.907, SE = 0.26) and intensifies the next year (−1.170, SE = 0.42), a roughly 30% increase in magnitude.
 - A one-standard-deviation difference in augmentation exposure corresponds to about 30% of the sample mean (3.811).
 
-### 3. **The augmentation result is robust**
+### 3. The augmentation result is robust
 - Clean pre-trends support the parallel-trends assumption.
 - Leave-one-out estimates stay negative across nearly all subsamples; significance softens only when the Department of the Treasury is excluded, and the sign never changes.
 

@@ -13,7 +13,7 @@ excerpt: A conjoint experiment showing how the design and framing of ageing poli
 
 ## Overview
 
-Ageing policy often sets younger taxpayers against older beneficiaries, and the resulting intergroup conflict can stall reform before it begins. Less attention has been given to whether the design of a policy, rather than its mere existence, can ease that tension. We field a conjoint experiment among residents of Taipei City that varies key policy attributes—who benefits, how costs are shared, and how the program is framed and bounded—and estimate how each attribute shapes support among younger and older respondents. We find that certain designs lessen the perceived zero-sum conflict between age groups, and that framing ageing policy in intergenerational terms raises support across both. Distributional features matter less than expected once a policy is presented as mutual gain rather than competition.
+Ageing policy often sets younger taxpayers against older beneficiaries, and the resulting intergroup conflict can stall reform before it begins. Whether the design of a policy, rather than its mere existence, can ease that tension has received far less scrutiny. We field a conjoint experiment among residents of Taipei City that varies key policy attributes—who benefits, how costs are shared, and how the program is framed and bounded—and estimate how each attribute shapes support among younger and older respondents. We find that certain designs lessen the perceived zero-sum conflict between age groups, and that framing ageing policy in intergenerational terms raises support across both. Distributional features matter less than expected once a policy is presented as mutual gain rather than competition.
 
 ## Research Design
 

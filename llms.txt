@@ -1,0 +1,24 @@
+# Jiaen Wu
+
+> Jiaen Wu is a Ph.D. candidate in Public Affairs at the O'Neill School of Public and Environmental Affairs, Indiana University Bloomington. He studies bureaucratic discretion, representative bureaucracy, and algorithmic governance, using quasi-experimental designs and large administrative datasets. He is on the 2026-27 academic job market. Email: jiaewu@iu.edu.
+
+His job market paper, "Routinized Deference: Predictive Screening and Bureaucratic Capacity in Child Protective Services" (Revise & Resubmit, Journal of Public Administration Research and Theory), shows that when U.S. child protection agencies adopt predictive screening algorithms, substantiation rates fall and investigations slow: analytical capacity erodes rather than expands.
+
+He is principal investigator on a randomized field experiment funded by a Schmidt Sciences AI at Work Grant, conducted with Pakistan's Federal Board of Revenue, testing whether AI training raises tax officers' analytical capacity. He is an Irsay Graduate Fellow at Indiana University Bloomington and a recipient of the NASPAA Staats Emerging Scholars Award. He holds an M.S. in Public Policy and a B.S. in Political Science from National Taiwan University.
+
+## Key pages
+
+- [About](https://jia-enwu.github.io/): research agenda and background
+- [Publications and working papers](https://jia-enwu.github.io/publications/): journal articles and current projects
+- [Job market paper](https://jia-enwu.github.io/publications/2025-wu_child_capacity/): Routinized Deference (R&R at JPART)
+- [CV (PDF)](https://jia-enwu.github.io/files/Wu_CV.pdf): full curriculum vitae
+- [Teaching](https://jia-enwu.github.io/teaching/): instructor and TA experience
+- [Google Scholar](https://scholar.google.com/citations?user=pYxnuEgAAAAJ&hl=en): citation profile
+
+## Selected work
+
+- Rutherford, A., & Wu, J. (2025). Representation and the Legislative Enterprise: An Expanded View of Staff Representation. Politics, Groups, and Identities.
+- Wu, J., & Kuo, M.-f. (2024). How conjoint analysis contributes to mitigating intergroup conflict? A case study of ageing policy in Taipei City (Taiwan). Journal of Asian Public Policy, 17(3), 725-746.
+- Wu, J. (working paper). From Boardroom Representation to Workplace Leadership: Evaluating the Effects of California's Gender Quota Legislation on Female Career Advancement.
+- Wu, J., & Rutherford, A. (working paper). How Generative AI Impacts Job Satisfaction: Evidence from the U.S. Federal Government.
+- Wu, J. (working paper). Does Discretion Enable Active Representation? Evidence from the 2022 Expansion of WOSB-Eligible Industries.

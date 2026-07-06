@@ -6,7 +6,7 @@ authors:
   - "Amanda Rutherford"
   - "Jiaen Wu"
 date: 2025-01-01
-venue: "Politics, Groups, and Identities (forthcoming)"
+venue: "Politics, Groups, and Identities (2025, online first)"
 category: manuscripts
 paperurl: "https://www.tandfonline.com/doi/full/10.1080/21565503.2025.2564133?src="
 excerpt: We analyze over 180,000 staff contracts from the U.S. House of Representatives to revisit how members' demographics and party shape the representation of women and people of color among senior, DC, and district staff.
@@ -31,18 +31,18 @@ This method provides a transparent, replicable, and scalable approach to staff c
 
 ## Key Findings
 
-### **1. Gender-based representation is limited and asymmetric**
+### 1. Gender-based representation is limited and asymmetric
 - Female legislators hire more women overall,  
 - **but not more women in senior roles**, where decision-making power is concentrated.
 - Partisanship matters: Democrats hire significantly more women than Republicans.
 
-### **2. Race-based representation is stronger and more consistent**
+### 2. Race-based representation is stronger and more consistent
 - Nonwhite legislators hire substantially more staff of color across senior, DC, and district positions.
 - Race-based linkage is **stronger** than gender-based linkage.
 
-### **3. Electoral pressures constrain representation**
+### 3. Electoral pressures constrain representation
 - In competitive districts, nonwhite legislators hire fewer nonwhite staff—suggesting electoral incentives can suppress active representation.
 
-### **4. Party identity is a powerful force**
+### 4. Party identity is a powerful force
 - Democrats, regardless of race or gender, hire more diverse staff.
 - Among Republicans, demographic identity plays a much larger role.
