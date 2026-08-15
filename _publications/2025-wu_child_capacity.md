@@ -6,7 +6,7 @@ authors:
 date: 2025-12-01
 venue: "Job Market Paper · Revise & Resubmit, Journal of Public Administration Research and Theory (JPART)"
 category: working_papers
-paperurl: 
+paperurl: "/files/job_market_paper_jiaen_wu.pdf"
 excerpt: "A stacked difference-in-differences study of predictive algorithms in U.S. child protection, showing that adoption erodes analytical capacity—lower substantiation rates and slower investigations—without expanding operational capacity."
 ---
 
@@ -14,7 +14,7 @@ excerpt: "A stacked difference-in-differences study of predictive algorithms in 
 
 Public agencies increasingly hand frontline screening decisions to predictive algorithms, on the premise that doing so sharpens judgment and frees scarce capacity. Whether it holds in practice is another matter. Using NCANDS data from 2010 to 2023 and a stacked difference-in-differences design, I examine how the adoption of predictive screening reshaped decision-making in U.S. Child Protective Services. Algorithm adoption does not increase the number of investigations, and it produces a substantial decline in substantiation rates—evidence, I argue, of eroding rather than expanding capacity. To make sense of this, I develop the concept of routinized deference: under caseload pressure, caseworkers default to the algorithm's recommendation, and their work shifts from analyzing cases toward verifying the tool and managing its exceptions.
 
-*This is my job market paper. The manuscript is under revision for resubmission; the latest draft is available upon request (jiaewu@iu.edu).*
+*This is my job market paper. The manuscript is under revision for resubmission.*
 
 ---
 
