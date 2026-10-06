@@ -4,7 +4,7 @@ collection: publications
 authors:
   - "Jiaen Wu"
 date: 2025-01-01
-venue: "Working paper"
+venue: "R&R at Regulation & Governance"
 category: working_papers
 paperurl: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5831342"
 excerpt: An event-study and IV design evaluating how California's board gender quota (SB 826) reshaped women's representation across organizational levels, from executives to the broader workforce.
