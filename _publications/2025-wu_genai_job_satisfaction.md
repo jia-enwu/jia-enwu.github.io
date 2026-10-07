@@ -5,7 +5,7 @@ authors:
   - "Jiaen Wu"
   - "Amanda Rutherford"
 date: 2025-01-01
-venue: "Working paper"
+venue: "R&R at Public Administration Review"
 category: working_papers
 paperurl:
 excerpt: "A continuous difference-in-differences study of 25 U.S. federal agencies, showing that GenAI augmentation—not automation—is negatively associated with employee job satisfaction as work shifts from creation to verification."
