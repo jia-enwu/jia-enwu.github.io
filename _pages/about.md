@@ -18,7 +18,7 @@ redirect_from:
   </div>
   <div class="intro-copy">
     <p class="eyebrow">On the 2026–27 academic job market</p>
-    <p>I am a Ph.D. candidate at the O’Neill School of Public and Environmental Affairs, Indiana University Bloomington. My research focuses on <strong>public management</strong>, combining causal inference, machine learning, and large-scale administrative data.</p>
+    <p>I am a Ph.D. candidate at the O’Neill School of Public and Environmental Affairs, Indiana University Bloomington. My research focuses on <strong>public management and AI governance</strong>. I use causal inference, machine learning, and large-scale administrative data to study how public organizations make decisions and manage their workforce.</p>
     <p class="research-focus">I study how organizational arrangements shape professional judgment, workforce behavior, and the allocation of public resources. Specifically, I examine how governments’ use of AI reshapes bureaucratic discretion and accountability for public decisions.</p>
     <p>I am the principal investigator of a <strong>$200,000 project</strong> funded by <a href="https://www.schmidtsciences.org/ai-at-work/">Schmidt Sciences’ AI at Work program</a>, examining how AI training and work design affect public officials’ analytical capacity.</p>
     <section class="research-interests" aria-labelledby="interests-heading">
