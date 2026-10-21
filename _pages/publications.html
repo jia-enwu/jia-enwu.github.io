@@ -1,37 +1,13 @@
 ---
-layout: archive
-title: "Publications & Working Papers"
+layout: academic-page
+title: "Research"
 permalink: /publications/
-author_profile: true
+redirect_from:
+  - /research/
 ---
-
-{% if site.author.googlescholar %}
-  <div class="wordwrap">
-    You can also find my publications on
-    <a href="{{ site.author.googlescholar }}">my Google Scholar profile</a>.
-  </div>
-{% endif %}
-
-{% include base_path %}
-
-{% if site.publication_category %}
-  {% for category in site.publication_category %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
-
-
+{% assign jmp = site.publications | where: 'job_market_paper', true | first %}
+<section class="research-group section-jmp" aria-labelledby="jmp-heading">
+  <h2 id="jmp-heading">Job Market Paper</h2>
+  {% include academic-paper.html paper=jmp %}
+</section>
+{% include academic-research.html %}

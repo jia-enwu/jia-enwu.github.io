@@ -1,0 +1,31 @@
+{% assign papers = site.publications | sort: 'date' | reverse %}
+<section class="{% if include.home %}section{% else %}research-group{% endif %} section-published" id="research" aria-labelledby="published-heading">
+  <div{% if include.home %} class="section-inner"{% endif %}>
+    <div class="section-heading">
+      <h2 id="published-heading">Published Papers</h2>
+      {% if include.home %}<a href="{{ '/publications/' | relative_url }}">All papers <span aria-hidden="true">→</span></a>{% endif %}
+    </div>
+    <div>
+{% for paper in papers %}{% if paper.category == 'manuscripts' and paper.job_market_paper != true %}
+  {% include academic-paper.html paper=paper %}
+{% endif %}{% endfor %}
+    </div>
+  </div>
+</section>
+<section class="{% if include.home %}section{% else %}research-group{% endif %} section-working" id="working-papers" aria-labelledby="working-heading">
+  <div{% if include.home %} class="section-inner"{% endif %}>
+    <div class="section-heading"><h2 id="working-heading">Working Papers</h2></div>
+    <div>
+{% assign working_papers = papers | where: 'category', 'working_papers' %}
+{% for paper in working_papers %}{% if paper.review_status == 'revise_and_resubmit' %}
+  {% include academic-paper.html paper=paper %}
+{% endif %}{% endfor %}
+{% for paper in working_papers %}{% if paper.review_status == 'under_review' %}
+  {% include academic-paper.html paper=paper %}
+{% endif %}{% endfor %}
+{% for paper in working_papers %}{% unless paper.review_status == 'revise_and_resubmit' or paper.review_status == 'under_review' %}
+  {% include academic-paper.html paper=paper %}
+{% endunless %}{% endfor %}
+    </div>
+  </div>
+</section>

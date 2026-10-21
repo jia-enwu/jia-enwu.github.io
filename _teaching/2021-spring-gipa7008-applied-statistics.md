@@ -1,6 +1,7 @@
 ---
 title: "GIPA-7008: Applied Statistics for Social Science Research"
 collection: teaching
+term: "Spring 2021"
 type: "Graduate course (Teaching Assistant)"
 permalink: /teaching/2021-spring-gipa7008
 venue: "Graduate Institute of Public Affairs, National Taiwan University"

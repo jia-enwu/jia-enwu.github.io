@@ -1,0 +1,10 @@
+{% assign courses = site.teaching | sort: 'date' | reverse %}
+{% for course in courses %}
+<article class="course">
+  <p class="course-term">{{ course.term }}</p>
+  <div>
+    <h3><a href="{{ course.url | relative_url }}">{{ course.title }}</a></h3>
+    <p>{{ course.type }}<br>{{ course.venue }}</p>
+  </div>
+</article>
+{% endfor %}

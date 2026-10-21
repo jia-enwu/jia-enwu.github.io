@@ -1,0 +1,20 @@
+---
+layout: academic
+---
+<a class="back-link" href="{{ '/' | relative_url }}">← Home</a>
+<article class="document-content">
+  <header class="document-header">
+    {% if page.job_market_paper %}<p class="eyebrow">Job Market Paper</p>{% endif %}
+    <h1>{{ page.title }}</h1>
+    {% if page.collection == 'publications' %}
+      <p class="authors">{{ page.authors | join: ', ' }}</p>
+      <p class="publication-status">{{ page.venue }}</p>
+      {% if page.paperurl and page.paperurl != '' %}
+        <p class="paper-actions"><a class="button button-primary" href="{{ page.paperurl | relative_url }}">{{ page.paper_label | default: 'Read paper' }} <span aria-hidden="true">↗</span></a></p>
+      {% endif %}
+    {% elsif page.collection == 'teaching' %}
+      <p class="publication-status">{{ page.type }} · {{ page.venue }}</p>
+    {% endif %}
+  </header>
+  {{ content }}
+</article>

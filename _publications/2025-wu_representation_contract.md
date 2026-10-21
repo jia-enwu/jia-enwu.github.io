@@ -4,7 +4,8 @@ collection: publications
 authors:
   - "Jiaen Wu"
 date: 2025-01-01
-venue: "Working paper"
+venue: "Under review"
+review_status: under_review
 category: working_papers
 paperurl:
 excerpt: This paper shows that bureaucratic discretion activates active representation only in offices with a higher share of female managers, where identity-based willingness meets institutional opportunity.

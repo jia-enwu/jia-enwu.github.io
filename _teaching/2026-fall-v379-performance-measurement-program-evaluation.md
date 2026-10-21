@@ -1,6 +1,7 @@
 ---
 title: "SPEA-V379: Performance Measurement & Program Evaluation"
 collection: teaching
+term: "Fall 2026"
 type: "Undergraduate course (Instructor of Record)"
 permalink: /teaching/2026-fall-v379
 venue: "O’Neill School of Public and Environmental Affairs, Indiana University Bloomington"

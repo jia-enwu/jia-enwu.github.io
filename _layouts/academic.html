@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  {% include seo.html %}
+  <link rel="icon" href="{{ '/images/favicon.svg' | relative_url }}" type="image/svg+xml">
+  <meta name="theme-color" content="#ffffff">
+  <link rel="stylesheet" href="{{ '/assets/css/academic.css' | relative_url }}">
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+  <header class="site-header">
+    <nav class="nav-shell" aria-label="Main navigation">
+      <a class="wordmark" href="{{ '/' | relative_url }}">Jiaen Wu</a>
+      <div class="nav-links">
+        <a href="{{ '/#job-market-paper' | relative_url }}">Job Market Paper</a>
+        <a href="{{ '/#research' | relative_url }}">Research</a>
+        <a href="{{ '/#teaching' | relative_url }}">Teaching</a>
+        <a href="{{ '/files/Wu_CV.pdf' | relative_url }}">CV <span class="file-label">PDF</span></a>
+        <a href="mailto:{{ site.author.email }}">Contact</a>
+      </div>
+    </nav>
+  </header>
+  <main id="main"{% unless page.home %} class="document-shell"{% endunless %}>
+    {{ content }}
+  </main>
+  <footer class="site-footer">
+    <div class="footer-shell">
+      <p>© {{ site.time | date: '%Y' }} Jiaen Wu</p>
+      <p><a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a> <span aria-hidden="true">·</span> <a href="{{ site.author.googlescholar }}">Google Scholar</a> <span aria-hidden="true">·</span> <a href="https://github.com/{{ site.author.github }}">GitHub</a></p>
+    </div>
+  </footer>
+  {% if jekyll.environment == 'production' %}{% include analytics.html %}{% endif %}
+</body>
+</html>

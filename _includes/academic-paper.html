@@ -1,0 +1,11 @@
+{% assign paper = include.paper %}
+<article class="research-paper">
+  <h3><a href="{{ paper.url | relative_url }}">{{ paper.title }}</a></h3>
+  {% if paper.authors.size > 0 %}<p class="authors">{{ paper.authors | join: ', ' }}</p>{% endif %}
+  <p class="publication-status">{{ paper.venue }}</p>
+  <div class="paper-summary">{{ paper.excerpt | markdownify }}</div>
+  <p class="paper-links">
+    {% if paper.paperurl and paper.paperurl != '' %}<a href="{{ paper.paperurl | relative_url }}">{{ paper.paper_label | default: 'Read paper' }} <span aria-hidden="true">↗</span></a>{% endif %}
+    <a href="{{ paper.url | relative_url }}">Research details <span aria-hidden="true">→</span></a>
+  </p>
+</article>

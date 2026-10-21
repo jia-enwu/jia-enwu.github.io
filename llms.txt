@@ -2,11 +2,13 @@
 
 > Jiaen Wu is a Ph.D. candidate in Public Affairs at the O'Neill School of Public and Environmental Affairs, Indiana University Bloomington. He is on the 2026-27 academic job market. Email: jiaewu@iu.edu.
 
-Jiaen Wu studies how public agencies can use artificial intelligence to improve service delivery without displacing professional judgment, weakening organizational capacity, or deepening social inequities. His research lies at the intersection of public management, bureaucratic discretion, representative bureaucracy, and algorithmic governance. He uses quasi-experimental designs, field experiments, and large administrative datasets to study how technology and policy change the decisions of public managers and frontline workers.
+Jiaen Wu studies how organizational arrangements shape professional judgment, workforce behavior, and the allocation of public resources. His research spans public management and health care management, combining causal inference, machine learning, and large-scale administrative data. His interests also include policy analytics and computational social science.
 
-His job market paper, "Routinized Deference: Predictive Screening and Bureaucratic Capacity in Child Protective Services" (Revise & Resubmit, Journal of Public Administration Research and Theory), develops the concept of routinized deference to explain how organizational accountability can lead workers to defer to algorithmic recommendations. Using U.S. child welfare data, the paper shows that predictive screening is associated with lower substantiation rates and slower investigations, suggesting that decision-support tools can erode rather than expand deployable analytical capacity.
+His job market paper, "Routinized Deference: Predictive Screening and Bureaucratic Capacity in Child Protective Services" (Journal of Public Administration Research and Theory, 2026, early view), develops the concept of routinized deference to explain how organizational accountability can lead workers to defer to algorithmic recommendations. Using U.S. child welfare data, the paper shows that predictive screening is associated with lower substantiation rates and slower investigations, suggesting that decision-support tools can erode rather than expand deployable analytical capacity.
 
-Wu is also principal investigator on a randomized field experiment supported by a $200,000 award from Schmidt Sciences' AI at Work program. Working with the Government of Pakistan, the project examines whether training in the use of AI strengthens public officials' analytical capacity and enables them to reallocate effort from routine tasks toward more complex cases requiring greater analysis and judgment.
+Wu is also principal investigator on a randomized field experiment supported by a $200,000 award from Schmidt Sciences' AI at Work program. Working with Pakistan's Federal Board of Revenue, the project examines how AI training and work design affect officers' analytical capacity and whether these changes shift enforcement from small-taxpayer audits toward large-firm investigations.
+
+In 2026, he also received the Top Grant from Taiwan's National Science and Technology Council as principal investigator, with an award of US$30,000.
 
 His broader research examines when discretion allows demographic representation to improve equity in public institutions. Current and published projects study representation among U.S. congressional staff, women-owned small-business contracting, gender representation in corporate leadership and the workforce, and the effects of generative AI on job satisfaction in the U.S. federal government. Wu is an Irsay Graduate Fellow at Indiana University Bloomington and a recipient of the NASPAA Staats Emerging Scholars Award. He holds an M.S. in Public Policy and a B.S. in Political Science from National Taiwan University.
 
@@ -14,7 +16,8 @@ His broader research examines when discretion allows demographic representation 
 
 - [About](https://jia-enwu.github.io/): research agenda and background
 - [Publications and working papers](https://jia-enwu.github.io/publications/): journal articles and current projects
-- [Job market paper](https://jia-enwu.github.io/publications/2025-wu_child_capacity/): Routinized Deference (R&R at JPART)
+- [Job market paper](https://jia-enwu.github.io/publications/2025-wu_child_capacity/): Routinized Deference (JPART, 2026, early view)
+- [Job market paper (PDF)](https://jia-enwu.github.io/files/job_market_paper_jiaen_wu.pdf): direct full-text download
 - [CV (PDF)](https://jia-enwu.github.io/files/Wu_CV.pdf): full curriculum vitae
 - [Teaching](https://jia-enwu.github.io/teaching/): instructor and TA experience
 - [Google Scholar](https://scholar.google.com/citations?user=pYxnuEgAAAAJ&hl=en): citation profile
@@ -26,3 +29,6 @@ His broader research examines when discretion allows demographic representation 
 - Wu, J. (working paper). From Boardroom Representation to Workplace Leadership: Evaluating the Effects of California's Gender Quota Legislation on Female Career Advancement.
 - Wu, J., & Rutherford, A. (working paper). How Generative AI Impacts Job Satisfaction: Evidence from the U.S. Federal Government.
 - Wu, J. (working paper). Does Discretion Enable Active Representation? Evidence from the 2022 Expansion of WOSB-Eligible Industries.
+
+- Santiago, K., Kyeong, K., & Wu, J. (under review). Different Ways of Doing Good: Public Service Motivation and Ethical Judgment in Public Administration.
+- Wu, J., Siegal, N., Whaley, C., Shrok, J., Crystal, S., Miles, J., Samples, H., Simon, K., & Gupta, S. (working paper). Buprenorphine Prescribing Trends and Practice Environment Associations with Clinician Adoption.

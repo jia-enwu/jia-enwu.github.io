@@ -1,6 +1,7 @@
 ---
 title: "SPEA-V185: Management of Public Problems and Solutions"
 collection: teaching
+term: "Spring 2025"
 type: "Undergraduate course (Instructor of Record)"
 permalink: /teaching/2025-spring-v185
 venue: "O’Neill School of Public and Environmental Affairs, Indiana University Bloomington"
