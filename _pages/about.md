@@ -42,7 +42,6 @@ redirect_from:
   <div class="section-inner">
     <div class="section-heading">
       <h2 id="jmp-heading">Job Market Paper</h2>
-      <p>AI, professional judgment,<br>and bureaucratic capacity</p>
     </div>
     <article class="paper-card">
       <h3 class="jmp-title"><a href="{{ jmp.paperurl | relative_url }}">{{ jmp.title }}</a></h3>
