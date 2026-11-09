@@ -6,7 +6,7 @@ Jiaen Wu studies how organizational arrangements shape professional judgment, wo
 
 His job market paper, "Routinized Deference: Predictive Screening and Bureaucratic Capacity in Child Protective Services" (Journal of Public Administration Research and Theory, 2026, early view), develops the concept of routinized deference to explain how organizational accountability can lead workers to defer to algorithmic recommendations. Using U.S. child welfare data, the paper shows that predictive screening is associated with lower substantiation rates and slower investigations, suggesting that decision-support tools can erode rather than expand deployable analytical capacity.
 
-Wu is also principal investigator on a randomized field experiment supported by a $200,000 award from Schmidt Sciences' AI at Work program. Working with Pakistan's Federal Board of Revenue, the project examines how AI training and work design affect officers' analytical capacity and whether these changes shift enforcement from small-taxpayer audits toward large-firm investigations.
+Wu is also principal investigator on a randomized field experiment supported by a $200,000 award from Schmidt Sciences' AI at Work program. Working with the Pakistan government, the project examines how AI training and work design affect officers' analytical capacity and whether these changes shift enforcement from small-taxpayer audits toward large-firm investigations.
 
 In 2026, he also received the Top Grant from Taiwan's National Science and Technology Council as principal investigator, with an award of US$30,000.
 

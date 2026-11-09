@@ -68,7 +68,7 @@ redirect_from:
       <article class="project">
         <h3>AI at Work Grant</h3>
         <p class="publication-status">2026 · Principal investigator · US$200,000 · Schmidt Sciences</p>
-        <p>Supported by <a href="https://www.schmidtsciences.org/ai-at-work/">Schmidt Sciences’ AI at Work program</a>, I am conducting a field experiment with Pakistan’s Federal Board of Revenue. The project examines how AI training and work design affect officers’ analytical capacity and whether these changes shift enforcement from small-taxpayer audits toward large-firm investigations.</p>
+        <p>Supported by <a href="https://www.schmidtsciences.org/ai-at-work/">Schmidt Sciences’ AI at Work program</a>, I am conducting a field experiment with the Pakistan government. The project examines how AI training and work design affect officers’ analytical capacity and whether these changes shift enforcement from small-taxpayer audits toward large-firm investigations.</p>
       </article>
       <article class="project">
         <h3>Top Grant</h3>
